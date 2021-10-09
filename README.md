@@ -7,8 +7,4 @@ Utiliza Java com servlets, JSP, JDBC e MySQL, além de recursos de formatação 
 
 ### Abaixo a tela da aplicação:
 
-<a href="https://github.com/arturpc1969/bootcampjava2021-Modulo1/blob/main/docs/Captura%20de%20tela%20de%202021-10-08%2021-58-24.png" target="_blank">
-  <img src="https://github.com/arturpc1969/bootcampjava2021-Modulo1/blob/main/docs/Captura%20de%20tela%20de%202021-10-08%2021-58-24.png" alt="Tela da aplicação">
-</a>
-
-https://github.com/arturpc1969/bootcampjava2021-Modulo1/blob/main/docs/Captura%20de%20tela%20de%202021-10-08%2021-58-24.png?raw=true
+<img src="https://github.com/arturpc1969/bootcampjava2021-Modulo1/blob/main/docs/Captura%20de%20tela%20de%202021-10-08%2021-58-24.png" alt="Tela da aplicação">
